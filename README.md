@@ -25,6 +25,27 @@
 
 ---
 
+- 🤖 Chatbots:
+
+<a href="https://github.com/rcarubbi/Carubbi.Microsoft.Bot.Builder.SelectableLocation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=Carubbi.Microsoft.Bot.Builder.SelectableLocation&theme=darcula" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/rcarubbi/EchoBotV3LocalDBTemplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=EchoBotV3LocalDBTemplate&theme=darcula" />
+</a>
+<br />
+<br />
+<a href="https://github.com/rcarubbi/CarStoreBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=CarStoreBot&theme=darcula" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/rcarubbi/HealthcareBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=HealthcareBot&theme=darcula" />
+</a>
+
+---
+
 - 🎮 Games:
  
 <a href="https://github.com/rcarubbi/doom-fire">
@@ -117,9 +138,9 @@
 <a href="https://github.com/rcarubbi/WebRTCPOC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=WebRTCPOC&theme=darcula" />
 </a>
- 
----
 
+---
+ 
 [![Carubbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarubbi&count_private=true&show_icons=true&theme=darcula)](https://github.com/rcarubbi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcarubbi&langs_count=8&theme=darcula&layout=compact)](https://github.com/rcarubbi)
