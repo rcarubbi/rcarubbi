@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi there,👋 My name is Raphael.
+
+## 📫 How to reach me: 
+* Facebook: https://www.facebook.com/rcarubbi/
+* Instagram: https://www.instagram.com/rcarubbi/
+* Twitter: https://twitter.com/rcarubbi
+* Email: rcarubbi@gmail.com
 
 ![Carubbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarubbi&count_private=true&show_icons=true&theme=darcula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcarubbi&langs_count=8&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Carubbi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rcarubbi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rcarubbi/rcarubbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
