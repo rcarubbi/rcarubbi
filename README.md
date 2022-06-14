@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Carubbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarubbi&count_private=true)
+![Carubbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarubbi&count_private=true&show_icons=true&theme=darcula)
 
 
 <!--
