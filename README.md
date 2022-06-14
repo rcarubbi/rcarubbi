@@ -27,9 +27,7 @@
 
 - 🔭 I’m currently working on
   
-<a href="https://github.com/rcarubbi/ReactBlocklyEditor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=ReactBlocklyEditor&theme=darcula" />
-</a> 
+
 &nbsp;&nbsp;
 <a href="https://github.com/rcarubbi/Carubbi.ChatbotStudio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=Carubbi.ChatbotStudio&theme=darcula" />
