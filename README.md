@@ -48,6 +48,10 @@
 <a href="https://github.com/rcarubbi/pathfinder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=pathfinder&theme=darcula" />
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/rcarubbi/LotoFacilAnalyzer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=LotoFacilAnalyzer&theme=darcula" />
+</a>
 
 ---
 
