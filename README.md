@@ -8,6 +8,16 @@
 
 ---
 
+<a href="https://github.com/rcarubbi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rcarubbi&count_private=true&show_icons=true&theme=darcula" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/rcarubbi?tab=repositories&q=&type=&language=&sort=">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarubbi&langs_count=8&theme=darcula&layout=compact" />
+</a>
+
+---
+
 - 🔭 I’m currently working on:
   
 <a href="https://github.com/rcarubbi/ReactBlocklyEditor">
@@ -137,14 +147,4 @@
 &nbsp;&nbsp;
 <a href="https://github.com/rcarubbi/WebRTCPOC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=WebRTCPOC&theme=darcula" />
-</a>
-
----
-
-<a href="https://github.com/rcarubbi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rcarubbi&count_private=true&show_icons=true&theme=darcula" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/rcarubbi?tab=repositories&q=&type=&language=&sort=">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarubbi&langs_count=8&theme=darcula&layout=compact" />
 </a>
