@@ -1,8 +1,8 @@
 ### Hi there,👋 I'm Raphael Carubbi. 
 
 > I've been coding for fun since 1998 and working as a software developer since 2005.
-> I'm keen on technology in general, coding, video games and Kung fu.  
-> I spend most my time with my family, studying and watching TV Series.  
+> I'm keen on technology in general, coding, video games and Kung Fu.  
+> I spend most of my time with my family, studying and watching TV Series.  
 
 ## 📫 How to reach me: 
 
