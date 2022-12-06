@@ -39,6 +39,11 @@
 <a href="https://github.com/rcarubbi/Smart.LMS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=Smart.LMS&theme=darcula" />
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/rcarubbi/awesome-brazilian-youtubers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=awesome-brazilian-youtubers&theme=darcula" />
+</a>
+
 
 ---
 
