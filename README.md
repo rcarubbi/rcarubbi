@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/rcarubbi)
 [![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=blue&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/rcarubbi/) 
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=fe007e&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/rcarubbi/) 
-[![Twitter](https://img.shields.io/static/v1?label=Instagram&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/rcarubbi)
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/rcarubbi)
 [![Email](https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=Gmail&style=flat-square&logoColor=white)](mailto:rcarubbi@gmail.com)  
 
 ---
