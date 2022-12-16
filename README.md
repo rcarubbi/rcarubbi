@@ -154,7 +154,8 @@ I've been coding for fun since 1998 and working as a software developer since 20
 <a href="https://github.com/rcarubbi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rcarubbi&count_private=true&show_icons=true&theme=darcula" />
 </a>
-&nbsp;&nbsp;
+<br />
+<br />
 <a href="https://github.com/rcarubbi?tab=repositories&q=&type=&language=&sort=">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarubbi&langs_count=8&theme=darcula&layout=compact" />
 </a>
