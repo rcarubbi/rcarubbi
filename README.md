@@ -10,9 +10,9 @@ I've been coding for fun since 1998 and working as a software developer since 20
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/rcarubbi)
 [![Email](https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=Gmail&style=flat-square&logoColor=white)](mailto:rcarubbi@gmail.com)  
  
----
+## Repositories:
 
-## 🔭 I’m currently working on
+### 🔭 I’m currently working on
   
 <a href="https://github.com/rcarubbi/ReactBlocklyEditor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=ReactBlocklyEditor&theme=darcula" />
@@ -31,7 +31,7 @@ I've been coding for fun since 1998 and working as a software developer since 20
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=awesome-brazilian-youtubers&theme=darcula" />
 </a>
 
-## 🤖 Chatbots:
+### 🤖 Chatbots:
 
 <a href="https://github.com/rcarubbi/Carubbi.Microsoft.Bot.Builder.SelectableLocation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=Carubbi.Microsoft.Bot.Builder.SelectableLocation&theme=darcula" />
@@ -50,7 +50,7 @@ I've been coding for fun since 1998 and working as a software developer since 20
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=HealthcareBot&theme=darcula" />
 </a>
 
-## 🎮 Games:
+### 🎮 Games:
  
 <a href="https://github.com/rcarubbi/doom-fire">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=doom-fire&theme=darcula" />
@@ -78,7 +78,7 @@ I've been coding for fun since 1998 and working as a software developer since 20
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=LotoFacilAnalyzer&theme=darcula" />
 </a>
 
-## ⛏️ Tools
+### ⛏️ Tools
 
 <a href="https://github.com/rcarubbi/Carubbi-AudioConverter-Api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=Carubbi-AudioConverter-Api&theme=darcula" />
@@ -111,7 +111,7 @@ I've been coding for fun since 1998 and working as a software developer since 20
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=Carubbi.CurrencyWriter&theme=darcula" />
 </a> 
 
-## 📖 Study
+### 📖 Study
  
 <a href="https://github.com/rcarubbi/rabbitmqcourse">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=rabbitmqcourse&theme=darcula" />
