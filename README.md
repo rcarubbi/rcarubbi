@@ -31,6 +31,8 @@ I've been coding for fun since 1998 and working as a software developer since 20
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=awesome-brazilian-youtubers&theme=darcula" />
 </a>
 
+---
+
 ### 🤖 Chatbots:
 
 <a href="https://github.com/rcarubbi/Carubbi.Microsoft.Bot.Builder.SelectableLocation">
@@ -49,6 +51,8 @@ I've been coding for fun since 1998 and working as a software developer since 20
 <a href="https://github.com/rcarubbi/HealthcareBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=HealthcareBot&theme=darcula" />
 </a>
+
+---
 
 ### 🎮 Games:
  
@@ -77,6 +81,8 @@ I've been coding for fun since 1998 and working as a software developer since 20
 <a href="https://github.com/rcarubbi/LotoFacilAnalyzer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=LotoFacilAnalyzer&theme=darcula" />
 </a>
+
+---
 
 ### ⛏️ Tools
 
@@ -110,6 +116,8 @@ I've been coding for fun since 1998 and working as a software developer since 20
 <a href="https://github.com/rcarubbi/Carubbi.CurrencyWriter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=Carubbi.CurrencyWriter&theme=darcula" />
 </a> 
+
+---
 
 ### 📖 Study
  
