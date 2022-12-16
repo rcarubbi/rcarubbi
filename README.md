@@ -10,7 +10,7 @@ I've been coding for fun since 1998 and working as a software developer since 20
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/rcarubbi)
 [![Email](https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=Gmail&style=flat-square&logoColor=white)](mailto:rcarubbi@gmail.com)  
  
-## Repositories:
+## 📦 Repositories:
 
 ### 🔭 I’m currently working on
   
