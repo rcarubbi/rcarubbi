@@ -1,8 +1,6 @@
-### Hi there,👋 I'm Raphael Carubbi. 
+# Hi there,👋 I'm Raphael Carubbi. 
 
-> I've been coding for fun since 1998 and working as a software developer since 2005.
-> I'm keen on technology in general, coding, video games and Kung Fu.  
-> I spend most of my time with my family, studying and watching TV Series.  
+I've been coding for fun since 1998 and working as a software developer since 2005. I'm keen on technology in general, coding, video games and Kung Fu. I spend most of my time with my family, studying and watching TV Series.
 
 ## 📫 How to reach me: 
 
@@ -11,18 +9,7 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=fe007e&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/rcarubbi/) 
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/rcarubbi)
 [![Email](https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=Gmail&style=flat-square&logoColor=white)](mailto:rcarubbi@gmail.com)  
-
----
-
-<a href="https://github.com/rcarubbi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rcarubbi&count_private=true&show_icons=true&theme=darcula" />
-</a>
-<br />
-<br />
-<a href="https://github.com/rcarubbi?tab=repositories&q=&type=&language=&sort=">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarubbi&langs_count=8&theme=darcula&layout=compact" />
-</a>
-
+ 
 ---
 
 ## 🔭 I’m currently working on
@@ -44,9 +31,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=awesome-brazilian-youtubers&theme=darcula" />
 </a>
 
-
----
-
 ## 🤖 Chatbots:
 
 <a href="https://github.com/rcarubbi/Carubbi.Microsoft.Bot.Builder.SelectableLocation">
@@ -65,8 +49,6 @@
 <a href="https://github.com/rcarubbi/HealthcareBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=HealthcareBot&theme=darcula" />
 </a>
-
----
 
 ## 🎮 Games:
  
@@ -95,8 +77,6 @@
 <a href="https://github.com/rcarubbi/LotoFacilAnalyzer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=LotoFacilAnalyzer&theme=darcula" />
 </a>
-
----
 
 ## ⛏️ Tools
 
@@ -131,8 +111,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=Carubbi.CurrencyWriter&theme=darcula" />
 </a> 
 
----
-
 ## 📖 Study
  
 <a href="https://github.com/rcarubbi/rabbitmqcourse">
@@ -159,4 +137,16 @@
 &nbsp;&nbsp;
 <a href="https://github.com/rcarubbi/WebRTCPOC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=WebRTCPOC&theme=darcula" />
+</a>
+
+--- 
+
+## Stats 
+
+<a href="https://github.com/rcarubbi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rcarubbi&count_private=true&show_icons=true&theme=darcula" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/rcarubbi?tab=repositories&q=&type=&language=&sort=">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarubbi&langs_count=8&theme=darcula&layout=compact" />
 </a>
