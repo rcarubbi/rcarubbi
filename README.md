@@ -81,7 +81,12 @@ I've been coding for fun since 1998 and working as a software developer since 20
 <a href="https://github.com/rcarubbi/LotoFacilAnalyzer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=LotoFacilAnalyzer&theme=darcula" />
 </a>
-
+<br />
+<br />
+<a href="https://github.com/rcarubbi/SuperAdventure">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rcarubbi&repo=SuperAdventure&theme=darcula" />
+</a>
+ 
 ---
 
 ### ⛏️ Tools
